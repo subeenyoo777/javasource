@@ -12,6 +12,9 @@ public class VarByteEX1 {
          // 실수형 : float(4), double(8)
          // 불린형: boolean(1)
 
+         // 상수 : 값을 한번만 저장
+         // 타입 상수명 :  값; final int MAX_VALUE = 100;
+
          // 변수선언 : 타입 변수명 = 값;
          // 변수명 : 단어 2개 조합이 되는 경우 뒷 단어의 시작은 대문자로 한다
          // max-speed : 데이터베이스 필드명
