@@ -30,7 +30,7 @@ replay_pid*
 README.md
 
 ### VisualStudioCode ###
-.*/ .vscode/*
+*/.vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
 !.vscode/launch.json
