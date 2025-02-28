@@ -3,7 +3,9 @@ package condition;
 import java.util.Scanner;
 
 public class ifTest3 {
-    public static void main(String[] args) {
+    public static void main(String[] args)  
+    
+    {
         
         //score 점수 입력을 받아서
         //score 가 90보다 크면 점수가 90점 이상입니다, 그리고 등급은 A입니다. 출력
