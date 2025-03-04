@@ -7,7 +7,7 @@ public class ArrayEx10 {
         int[] ball = new int[45];
 
         for (int i = 0; i < ball.length; i++) {
-            ball[i] = i;
+            ball[i] = i + 1;
         }
 
         System.out.println(Arrays.toString(ball));
