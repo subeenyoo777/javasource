@@ -8,8 +8,9 @@ public class ArrayEx4 {
 
         Scanner sc = new Scanner(System.in);
 
-        // 문제: N 명 학생의 수학 점수를 입력받아 평균, 총합을 구하자.
-        int arr[]; // 선언만 한 배열.
+        // 문제:
+        // (학생 수 미정) N 명 학생의 수학 점수를 입력받아 평균, 총합 구하기
+        int arr[]; // 배열을 선언만 한 경우이다
         System.out.printf("학생의 수 입력 >>");
         int num = sc.nextInt(); // 입력받은 학생의 수를 sum 에 담음
 
