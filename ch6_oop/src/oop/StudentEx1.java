@@ -19,5 +19,9 @@ public class StudentEx1 {
         // Student [stuId=null, name=null, grade=1, classNum=5, phone=null, email=null]
         // Student [stuId=s1234567, name=홍길동, grade=2, classNum=3, phone=010-1234-5678,
         // email=hong2@gmail.com]
+
+        // 홍길동의 전화번호 변경
+        student3.changeTel("010-5678-9535");
+        System.out.println(student3);
     }
 }

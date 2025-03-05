@@ -14,7 +14,7 @@ public class Product {
     // 생성자 : 개발자가 명시하지 않으면 자동으로 default 생성자 만들어줌.
     // → Product(){}
 
-    // 기능 - 가격을 변경
+    // 메소드 // 기능 - 가격을 변경
     void changeprice() {
 
     }

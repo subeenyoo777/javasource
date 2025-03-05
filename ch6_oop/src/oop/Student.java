@@ -41,19 +41,30 @@ public class Student {
     String email;
 
     // 기능: 전화번호를 변경한다. 이메일을 변경한다. 학년을 변경한다. 반을 변경한다.
-    // 메소드: 리턴타입 메소드명 () {}
-    void changeTel() {
+    // 메서드: 리턴타입 메서드명 () {}
+    // 소문자로 시작.
+    // 리턴(반환) 타입: 기본 타입(정수형, booloean, 문자형, 실수형), 객체(대문자로 시작)타입, 배열,
+    // void(지님리턴 타입 없음)
+
+    void changeTel(String phone) {
+        // this: 맴버 변수 앞, 맴버 메서드 앞
+        this.phone = phone;
     }
 
-    void changeEmail() {
+    void changeEmail(String email) {
+        this.email = email;
     }
 
-    void changeGrade() {
+    void changeGrade(int grade) {
+        this.grade = grade;
     }
 
-    void changeClassNum() {
+    void changeClassNum(int classNUM) {
+        this.classNum = classNUM;
     }
 
+    // () 입력은 없으나
+    /// 출력문 형태는 string 으로 내보내.
     @Override
     public String toString() {
         return "Student [stuId=" + stuId + ", name=" + name + ", grade=" + grade + ", classNum=" + classNum + ", phone="
@@ -61,3 +72,19 @@ public class Student {
     }
 
 }
+
+// 생성자 constructor
+// public String() {
+// this.value = "".value;
+// this.coder = "".coder;
+// }
+
+// char 반환(리턴)타입
+// int 입력타입
+// public char charAt(int index) {
+// if (isLatin1()) {
+// return StringLatin1.charAt(value, index);
+// } else {
+// return StringUTF16.charAt(value, index);
+// }
+// }
