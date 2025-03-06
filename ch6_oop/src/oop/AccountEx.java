@@ -8,11 +8,11 @@ public class AccountEx {
 
         // 200,000 입금
         account.deposit(200000);
-        System.out.println("현재 잔액:" + account.balance);
+        System.out.println("현재 잔액:" + account.getBalance());
 
         // 150,000 출금
         account.withdraw(150000);
-        System.out.println("현재 잔액:" + account.balance);
+        System.out.println("현재 잔액:" + account.getBalance());
 
     }
 

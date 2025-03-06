@@ -12,11 +12,42 @@ public class Student {
     // 학번(s1024125), 이름(홍길동), 학년(1), 반(1), 전화번호(010-1234-1234),이메일(hong2@gmail.com)
     String stuId;
 
+    private String name;
+    private int grade;
+    private int classNum;
+    private String phone;
+    private String email;
+
     // default 생성자: 괄호 안 아무것도 없음
     public Student() {
     }
 
+    public String getStuId() {
+        return stuId;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public int getGrade() {
+        return grade;
+    }
+
+    public int getClassNum() {
+        return classNum;
+    }
+
+    public String getPhone() {
+        return phone;
+    }
+
+    public String getEmail() {
+        return email;
+    }
+
     // 생성자 목적(new~)
+    // 생성자 오버로딩
     // : 맴버 변수 초기화
     public Student(String stuId, String name, int grade, int classNum, String phone, String email) {
         this.stuId = stuId;
@@ -33,12 +64,6 @@ public class Student {
         this.grade = grade;
         this.classNum = classNum;
     }
-
-    String name;
-    int grade;
-    int classNum;
-    String phone;
-    String email;
 
     // 기능: 전화번호를 변경한다. 이메일을 변경한다. 학년을 변경한다. 반을 변경한다.
     // 메서드: 리턴타입 메서드명 () {}
