@@ -1,4 +1,4 @@
-package ch6_oop.exrend;
+package extend;
 
 public class ChildEx {
     public static void main(String[] args) {

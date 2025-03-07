@@ -1,4 +1,4 @@
-package ch6_oop.exrend;
+package extend;
 
 public class GrandChild extends Child {
 
