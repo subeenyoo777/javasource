@@ -1,4 +1,4 @@
-package Inter;
+package inter;
 
 public interface PlayingCard {
     // 일반메서드 가질 수 없다

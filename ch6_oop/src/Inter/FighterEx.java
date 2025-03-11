@@ -1,4 +1,4 @@
-package Inter;
+package inter;
 
 public class FighterEx {
     public static void main(String[] args) {

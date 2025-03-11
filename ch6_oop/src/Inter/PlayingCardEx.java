@@ -1,4 +1,4 @@
-package Inter;
+package inter;
 
 public interface PlayingCardEx {
     public static void main(String[] args) {

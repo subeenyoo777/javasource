@@ -1,4 +1,4 @@
-package Inter;
+package inter;
 
 public class Unit {
     int currentHp;

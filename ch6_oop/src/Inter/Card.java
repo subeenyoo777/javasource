@@ -1,4 +1,4 @@
-package Inter;
+package inter;
 
 // extends : 확장
 // implement : 구현
