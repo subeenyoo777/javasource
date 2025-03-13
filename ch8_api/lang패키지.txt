@@ -4,12 +4,10 @@ java.lang 패키지
 -equals() : 부모는 주소 값 비교인데 재정의를 통해 값 비교로 변경 가능.
 -toString() : 멤버 변수 값 출력 용도로 재정의
 
-
 2. String 클래스
  - 문자열을 다루기 위한 클래스
  -  String str1 = "";                       --> 재사용 
   - String str1 = new String("안녕하세요"); --> 새 인스턴스 매번 할당
-
 
  - 변경이 불가능한(immutable) 클래스
  - 주요 메서드
@@ -30,6 +28,24 @@ java.lang 패키지
    9) replaceAll("원본", "변경") : 원본(정규식 사용 가능) 찾아서 변경할 문자열로 전체 변경
    9) replaceFirst("원본", "변경") : 원본 찾아서 변경할 문자열로 처음만 변경
 
-   
+3. StringBuilder, StringBuffer
+ - 문자열을 다루기 위한 클래스
+ - 변경 가능한 클래스
+ - StringBuffer : 멀티 스레드를 지원
+ - StringBuilder : 단일 스레드를 지원, StringBuffer보다 빠름
+ 
+ 
+ 4. Math
+ -  기본적인 수학 계산에 유용한 메서드로 구성됨.
+ - 모든 메서드가  static 이다, 상수만 존재한다.
+ 
+ 5.  래퍼(wrapper) 클래스
+ - 기본형을 객체로 다루기 위한 클래스
+ - int ==> Integer
+ - long ==> Long
+ - float ==> Float
+ - char ==> Character
+ - boolean ==> Boolean
+
 
 

@@ -21,4 +21,18 @@ public class Person {
         }
         return false;
     }
+
+    public String getId() {
+        return id;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    @Override
+    public String toString() {
+        return "Person [id=" + id + ", name=" + name + "]";
+    }
+
 }
