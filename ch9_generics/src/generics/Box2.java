@@ -1,8 +1,6 @@
 package ch9_generics.src.generics;
 
-import ch9_generics.src.Box;
-
-public class Box2 {
+public class Box2<T> {
     T item;
 
     public void setItem(T item) {
