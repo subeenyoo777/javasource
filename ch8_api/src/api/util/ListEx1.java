@@ -1,4 +1,4 @@
-package api.utill;
+package api.util;
 
 import java.util.ArrayList;
 import java.util.List;

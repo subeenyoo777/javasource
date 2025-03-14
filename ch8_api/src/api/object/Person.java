@@ -11,6 +11,19 @@ public class Person {
 
     }
 
+    public String getId() {
+        return id;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    @Override
+    public int hashCode() {
+        return this.id.hashCode();
+    }
+
     @Override
     public boolean equals(Object obj) {
         if (obj instanceof Person) {
@@ -20,14 +33,6 @@ public class Person {
                 return true;
         }
         return false;
-    }
-
-    public String getId() {
-        return id;
-    }
-
-    public String getName() {
-        return name;
     }
 
     @Override
