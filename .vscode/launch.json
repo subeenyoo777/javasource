@@ -1,0 +1,1232 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "LambdaEx2",
+            "request": "launch",
+            "mainClass": "lambda.LambdaEx2",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "UserEx",
+            "request": "launch",
+            "mainClass": "thread.UserEx",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "BigLetters",
+            "request": "launch",
+            "mainClass": "thread.BigLetters",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "ScannerEx1",
+            "request": "launch",
+            "mainClass": "io.ScannerEx1",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "ReaderEx3",
+            "request": "launch",
+            "mainClass": "io.ReaderEx3",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "ReaderEx2",
+            "request": "launch",
+            "mainClass": "io.ReaderEx2",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "ReaderEx1",
+            "request": "launch",
+            "mainClass": "ch10_io.ReaderEx1",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "PlayerEx",
+            "request": "launch",
+            "mainClass": "abstractclass.PlayerEx",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "ObjectEx",
+            "request": "launch",
+            "mainClass": "api.object.ObjectEx",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "LocalDateEx",
+            "request": "launch",
+            "mainClass": "api.string.LocalDateEx",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "StringBuilderEx1",
+            "request": "launch",
+            "mainClass": "api.string.StringBuilderEx1",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "StringEx1",
+            "request": "launch",
+            "mainClass": "api.string.StringEx1",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "StringEx2",
+            "request": "launch",
+            "mainClass": "api.string.StringEx2",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "StringEx3",
+            "request": "launch",
+            "mainClass": "api.string.StringEx3",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "StringEx4",
+            "request": "launch",
+            "mainClass": "api.string.StringEx4",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "StringEx5",
+            "request": "launch",
+            "mainClass": "api.string.StringEx5",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "MathEx",
+            "request": "launch",
+            "mainClass": "api.string.math.MathEx",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "ArraysEx1",
+            "request": "launch",
+            "mainClass": "api.util.ArraysEx1",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "ArraysEx2",
+            "request": "launch",
+            "mainClass": "api.util.ArraysEx2",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "DateEx",
+            "request": "launch",
+            "mainClass": "api.util.DateEx",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "IteratorEx",
+            "request": "launch",
+            "mainClass": "api.util.IteratorEx",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "LIstEx3",
+            "request": "launch",
+            "mainClass": "api.util.LIstEx3",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "ListEx1",
+            "request": "launch",
+            "mainClass": "api.util.ListEx1",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "ListEx2",
+            "request": "launch",
+            "mainClass": "api.util.ListEx2",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "ListEx4",
+            "request": "launch",
+            "mainClass": "api.util.ListEx4",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "ListEx5",
+            "request": "launch",
+            "mainClass": "api.util.ListEx5",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "ListEx6",
+            "request": "launch",
+            "mainClass": "api.util.ListEx6",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "MapEx1",
+            "request": "launch",
+            "mainClass": "api.util.MapEx1",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "MapEx2",
+            "request": "launch",
+            "mainClass": "api.util.MapEx2",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "SetEx1",
+            "request": "launch",
+            "mainClass": "api.util.SetEx1",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "SetEx2",
+            "request": "launch",
+            "mainClass": "api.util.SetEx2",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "SetEx3",
+            "request": "launch",
+            "mainClass": "api.util.SetEx3",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "SetEx4",
+            "request": "launch",
+            "mainClass": "api.util.SetEx4",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "SetEx5",
+            "request": "launch",
+            "mainClass": "api.util.SetEx5",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "StackEx",
+            "request": "launch",
+            "mainClass": "api.util.StackEx",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "StringTokenEx",
+            "request": "launch",
+            "mainClass": "api.util.StringTokenEx",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "WrapperEx",
+            "request": "launch",
+            "mainClass": "api.wrapper.WrapperEx",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "ArrayEx1",
+            "request": "launch",
+            "mainClass": "array.ArrayEx1",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "ArrayEx10",
+            "request": "launch",
+            "mainClass": "array.ArrayEx10",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "ArrayEx11",
+            "request": "launch",
+            "mainClass": "array.ArrayEx11",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "ArrayEx15",
+            "request": "launch",
+            "mainClass": "array.ArrayEx15",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "ArrayEx16",
+            "request": "launch",
+            "mainClass": "array.ArrayEx16",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "ArrayEx2",
+            "request": "launch",
+            "mainClass": "array.ArrayEx2",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "ArrayEx3",
+            "request": "launch",
+            "mainClass": "array.ArrayEx3",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "ArrayEx4",
+            "request": "launch",
+            "mainClass": "array.ArrayEx4",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "ArrayEx5",
+            "request": "launch",
+            "mainClass": "array.ArrayEx5",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "ArrayEx6",
+            "request": "launch",
+            "mainClass": "array.ArrayEx6",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "ArrayEx7",
+            "request": "launch",
+            "mainClass": "array.ArrayEx7",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "ArrayEx8",
+            "request": "launch",
+            "mainClass": "array.ArrayEx8",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "ArrayEx9",
+            "request": "launch",
+            "mainClass": "array.ArrayEx9",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "ArraysEx12",
+            "request": "launch",
+            "mainClass": "array.ArraysEx12",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "ArraysEx13",
+            "request": "launch",
+            "mainClass": "array.ArraysEx13",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "ArraysEx14",
+            "request": "launch",
+            "mainClass": "array.ArraysEx14",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "CastingEX1",
+            "request": "launch",
+            "mainClass": "ch1.CastingEX1",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "Print",
+            "request": "launch",
+            "mainClass": "ch1.Print",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "ScopeEx1",
+            "request": "launch",
+            "mainClass": "ch1.ScopeEx1",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "VarBoolEx1",
+            "request": "launch",
+            "mainClass": "ch1.VarBoolEx1",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "VarByteEX1",
+            "request": "launch",
+            "mainClass": "ch1.VarByteEX1",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "VarByteEX2",
+            "request": "launch",
+            "mainClass": "ch1.VarByteEX2",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "VarLongEX2",
+            "request": "launch",
+            "mainClass": "ch1.VarLongEX2",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "VarcharEX1U",
+            "request": "launch",
+            "mainClass": "ch1.VarcharEX1U",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "WeekEx",
+            "request": "launch",
+            "mainClass": "ch1.WeekEx",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "BoxEx",
+            "request": "launch",
+            "mainClass": "ch9_generics.src.generics.BoxEx",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "BoxEx2",
+            "request": "launch",
+            "mainClass": "ch9_generics.src.generics.BoxEx2",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "FruitBoxEx1",
+            "request": "launch",
+            "mainClass": "ch9_generics.src.generics.FruitBoxEx1",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "SwitchTest1",
+            "request": "launch",
+            "mainClass": "condition.SwitchTest1",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "SwitchTest2",
+            "request": "launch",
+            "mainClass": "condition.SwitchTest2",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "SwitchTest3",
+            "request": "launch",
+            "mainClass": "condition.SwitchTest3",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "SwitchTest4",
+            "request": "launch",
+            "mainClass": "condition.SwitchTest4",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "SwitchTest5",
+            "request": "launch",
+            "mainClass": "condition.SwitchTest5",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "SwitchTest6",
+            "request": "launch",
+            "mainClass": "condition.SwitchTest6",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "SwitchTest7",
+            "request": "launch",
+            "mainClass": "condition.SwitchTest7",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "ifTest1",
+            "request": "launch",
+            "mainClass": "condition.ifTest1",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "ifTest10",
+            "request": "launch",
+            "mainClass": "condition.ifTest10",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "ifTest2",
+            "request": "launch",
+            "mainClass": "condition.ifTest2",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "ifTest3",
+            "request": "launch",
+            "mainClass": "condition.ifTest3",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "ifTest4",
+            "request": "launch",
+            "mainClass": "condition.ifTest4",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "ifTest5",
+            "request": "launch",
+            "mainClass": "condition.ifTest5",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "ifTest6",
+            "request": "launch",
+            "mainClass": "condition.ifTest6",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "ifTest7",
+            "request": "launch",
+            "mainClass": "condition.ifTest7",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "ifTest8",
+            "request": "launch",
+            "mainClass": "condition.ifTest8",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "ifTest9",
+            "request": "launch",
+            "mainClass": "condition.ifTest9",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "ArrayEx",
+            "request": "launch",
+            "mainClass": "exception.ArrayEx",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "CheckedEx1",
+            "request": "launch",
+            "mainClass": "exception.CheckedEx1",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "ExceptionEx1",
+            "request": "launch",
+            "mainClass": "exception.ExceptionEx1",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "LoginEx",
+            "request": "launch",
+            "mainClass": "exception.LoginEx",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "NumberFormatEx",
+            "request": "launch",
+            "mainClass": "exception.NumberFormatEx",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "ThrowEx",
+            "request": "launch",
+            "mainClass": "exception.ThrowEx",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "ThrowsEx",
+            "request": "launch",
+            "mainClass": "exception.ThrowsEx",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "TryWithEx",
+            "request": "launch",
+            "mainClass": "exception.TryWithEx",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "nullEx1",
+            "request": "launch",
+            "mainClass": "exception.nullEx1",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "AccountEx",
+            "request": "launch",
+            "mainClass": "extend.AccountEx",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "CaptionTvEx",
+            "request": "launch",
+            "mainClass": "extend.CaptionTvEx",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "ChildEx",
+            "request": "launch",
+            "mainClass": "extend.ChildEx",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "DrawShapeEx",
+            "request": "launch",
+            "mainClass": "extend.DrawShapeEx",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "SubStringEx",
+            "request": "launch",
+            "mainClass": "extend.SubStringEx",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "DaoEx",
+            "request": "launch",
+            "mainClass": "inter.DaoEx",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "DriverEx",
+            "request": "launch",
+            "mainClass": "inter.DriverEx",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "FighterEx",
+            "request": "launch",
+            "mainClass": "inter.FighterEx",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "InterfaceTest1",
+            "request": "launch",
+            "mainClass": "inter.InterfaceTest1",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "InterfaceTest2",
+            "request": "launch",
+            "mainClass": "inter.InterfaceTest2",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "PlayingCardEx",
+            "request": "launch",
+            "mainClass": "inter.PlayingCardEx",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "RemoteControlEx",
+            "request": "launch",
+            "mainClass": "inter.RemoteControlEx",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "SoundableEx",
+            "request": "launch",
+            "mainClass": "inter.SoundableEx",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "BreakEx1",
+            "request": "launch",
+            "mainClass": "loop.BreakEx1",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "BreakEx2",
+            "request": "launch",
+            "mainClass": "loop.BreakEx2",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "BreakEx3",
+            "request": "launch",
+            "mainClass": "loop.BreakEx3",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "ContinueEx1",
+            "request": "launch",
+            "mainClass": "loop.ContinueEx1",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "DowhileEx1",
+            "request": "launch",
+            "mainClass": "loop.DowhileEx1",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "DowhileEx2",
+            "request": "launch",
+            "mainClass": "loop.DowhileEx2",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "ForEx1",
+            "request": "launch",
+            "mainClass": "loop.ForEx1",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "ForEx10",
+            "request": "launch",
+            "mainClass": "loop.ForEx10",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "ForEx11",
+            "request": "launch",
+            "mainClass": "loop.ForEx11",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "ForEx12",
+            "request": "launch",
+            "mainClass": "loop.ForEx12",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "ForEx13",
+            "request": "launch",
+            "mainClass": "loop.ForEx13",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "ForEx2",
+            "request": "launch",
+            "mainClass": "loop.ForEx2",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "ForEx3",
+            "request": "launch",
+            "mainClass": "loop.ForEx3",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "ForEx4",
+            "request": "launch",
+            "mainClass": "loop.ForEx4",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "ForEx5",
+            "request": "launch",
+            "mainClass": "loop.ForEx5",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "ForEx6",
+            "request": "launch",
+            "mainClass": "loop.ForEx6",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "ForEx7",
+            "request": "launch",
+            "mainClass": "loop.ForEx7",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "ForEx8",
+            "request": "launch",
+            "mainClass": "loop.ForEx8",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "ForEx9",
+            "request": "launch",
+            "mainClass": "loop.ForEx9",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "WhileEx2",
+            "request": "launch",
+            "mainClass": "loop.WhileEx2",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "WhileEx4",
+            "request": "launch",
+            "mainClass": "loop.WhileEx4",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "WhilleEx1",
+            "request": "launch",
+            "mainClass": "loop.WhilleEx1",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "AccountEx(1)",
+            "request": "launch",
+            "mainClass": "oop.AccountEx",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "AccountEx2",
+            "request": "launch",
+            "mainClass": "oop.AccountEx2",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "AccountEx3",
+            "request": "launch",
+            "mainClass": "oop.AccountEx3",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "CalcEx",
+            "request": "launch",
+            "mainClass": "oop.CalcEx",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "CardEx2",
+            "request": "launch",
+            "mainClass": "oop.CardEx2",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "ClassEx1",
+            "request": "launch",
+            "mainClass": "oop.ClassEx1",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "GoodStockEx",
+            "request": "launch",
+            "mainClass": "oop.GoodStockEx",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "ImportEx",
+            "request": "launch",
+            "mainClass": "oop.ImportEx",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "MethodEx",
+            "request": "launch",
+            "mainClass": "oop.MethodEx",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "MiniCalcEx",
+            "request": "launch",
+            "mainClass": "oop.MiniCalcEx",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "ModifierEx",
+            "request": "launch",
+            "mainClass": "oop.ModifierEx",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "MymathEx",
+            "request": "launch",
+            "mainClass": "oop.MymathEx",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "ProductEx1",
+            "request": "launch",
+            "mainClass": "oop.ProductEx1",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "ReferenceParamEx",
+            "request": "launch",
+            "mainClass": "oop.ReferenceParamEx",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "ReferenceParamEx2",
+            "request": "launch",
+            "mainClass": "oop.ReferenceParamEx2",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "SingletonEx",
+            "request": "launch",
+            "mainClass": "oop.SingletonEx",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "SquareEx",
+            "request": "launch",
+            "mainClass": "oop.SquareEx",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "SquareEx2",
+            "request": "launch",
+            "mainClass": "oop.SquareEx2",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "StudentEx1",
+            "request": "launch",
+            "mainClass": "oop.StudentEx1",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "TimeEx",
+            "request": "launch",
+            "mainClass": "oop.TimeEx",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "TriangleEx1",
+            "request": "launch",
+            "mainClass": "oop.TriangleEx1",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "TvEx",
+            "request": "launch",
+            "mainClass": "oop.TvEx",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "primitiveParmEx",
+            "request": "launch",
+            "mainClass": "oop.primitiveParmEx",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "ArrthmeticsEx1",
+            "request": "launch",
+            "mainClass": "op.ArrthmeticsEx1",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "ArrthmeticsEx2",
+            "request": "launch",
+            "mainClass": "op.ArrthmeticsEx2",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "ArrthmeticsEx3",
+            "request": "launch",
+            "mainClass": "op.ArrthmeticsEx3",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "ArrthmeticsEx4",
+            "request": "launch",
+            "mainClass": "op.ArrthmeticsEx4",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "AssignOperEx1",
+            "request": "launch",
+            "mainClass": "op.AssignOperEx1",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "CcompareEx1",
+            "request": "launch",
+            "mainClass": "op.CcompareEx1",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "CcompareEx2",
+            "request": "launch",
+            "mainClass": "op.CcompareEx2",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "CcompareEx3",
+            "request": "launch",
+            "mainClass": "op.CcompareEx3",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "ConditionEx1",
+            "request": "launch",
+            "mainClass": "op.ConditionEx1",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "LogicalEx1",
+            "request": "launch",
+            "mainClass": "op.LogicalEx1",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "LogicalEx2",
+            "request": "launch",
+            "mainClass": "op.LogicalEx2",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "ScannerEx1",
+            "request": "launch",
+            "mainClass": "op.ScannerEx1",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "ScannerEx2",
+            "request": "launch",
+            "mainClass": "op.ScannerEx2",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "SignOperEx1",
+            "request": "launch",
+            "mainClass": "op.SignOperEx1",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "incDecOperEx1",
+            "request": "launch",
+            "mainClass": "op.incDecOperEx1",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "AnimalEx",
+            "request": "launch",
+            "mainClass": "poly.AnimalEx",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "BuyerEx",
+            "request": "launch",
+            "mainClass": "poly.BuyerEx",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "CaptionTvEx(1)",
+            "request": "launch",
+            "mainClass": "poly.CaptionTvEx",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "CarEx",
+            "request": "launch",
+            "mainClass": "poly.CarEx",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "CarEx2",
+            "request": "launch",
+            "mainClass": "poly.CarEx2",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "CarEx3",
+            "request": "launch",
+            "mainClass": "poly.CarEx3",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "ChildEx(1)",
+            "request": "launch",
+            "mainClass": "poly.ChildEx",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "EmployeeEx",
+            "request": "launch",
+            "mainClass": "poly.EmployeeEx",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "MyshopEx",
+            "request": "launch",
+            "mainClass": "shop.MyshopEx",
+            "projectName": "javasource_a7040f79"
+        }
+    ]
+}

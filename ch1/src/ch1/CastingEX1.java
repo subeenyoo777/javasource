@@ -8,29 +8,36 @@ package ch1;
 
 public class CastingEX1 {
     public static void main(String[] args) {
-        // Example of explicit type casting
-        double d = 85.4; // Corrected variable name
+
+        double d = 85.4;
         System.out.println("d = " + d);
 
-        // Casting double to int (will lose precision)
-        int score = (int) d; // Explicit casting to int
-        System.out.println("score = " + score); // Prints truncated value
+        int score = (int) d;
+        System.out.println("score = " + score);
 
-        // Example of adding int and double (requires casting)
         int intValue = 10;
-        double doubleValue = 5.5;
+        // double doubleValue = 5.5;
+        double dblValue = 5.5;
 
-        // int + double => double, but casting to int for explicit precision loss
-        double result = intValue + doubleValue; // No need for casting
-        System.out.println("result = " + result); // Prints result of addition
+        // int + double => double
+        int result = intValue + (int) dblValue;
+        System.out.printf("result = %d\n", result);
 
-        // Casting from double to float
         float f1 = 9.1234567f;
-        double d1 = 9.1234567; // Corrected type to 'double'
+        double d1 = 9.1234567;
 
-        // Casting int to char
-        int num = 97;  // Corrected syntax error (missing semicolon)
-        char ch1 = (char) num; // Explicit casting from int to char
-        System.out.println(ch1); // Prints 'a' because 97 is the ASCII code for 'a'
+        // 작은타입은 큰 타입으로 알아서 변환
+        double d2 = f1;
+        double result2 = d1 + f1;
+
+        // double result = intValue + doubleValue;
+        // System.out.println("result = " + result);
+
+        // float f1 = 9.1234567f;
+        // double d1 = 9.1234567;
+
+        int num = 97;
+        char ch1 = (char) num;
+        System.out.println(ch1);
     }
 }
