@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FileEx1",
+            "request": "launch",
+            "mainClass": "FileEx1",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "StreamEx3",
+            "request": "launch",
+            "mainClass": "StreamEx3",
+            "projectName": "javasource_a7040f79"
+        },
+        {
+            "type": "java",
+            "name": "StreamEx2",
+            "request": "launch",
+            "mainClass": "stream.StreamEx2",
+            "projectName": ""
+        },
+        {
+            "type": "java",
             "name": "LambdaEx2",
             "request": "launch",
             "mainClass": "lambda.LambdaEx2",

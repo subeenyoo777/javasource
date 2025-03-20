@@ -1,4 +1,4 @@
-package ch9_generics.src.generics;
+package generics;
 
 public class Box {
     Object item;

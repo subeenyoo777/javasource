@@ -1,4 +1,4 @@
-package ch9_generics.src.generics;
+package generics;
 
 import java.util.ArrayList;
 
