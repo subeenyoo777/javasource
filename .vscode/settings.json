@@ -1,7 +1,6 @@
 {
     "java.project.referencedLibraries": [],
     "java.project.sourcePaths": [
-        "ch10_io/src/io",
         "ch10_io/src"
     ],
     "java.project.explorer.showNonJavaResources": true

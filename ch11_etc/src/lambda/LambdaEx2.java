@@ -14,11 +14,13 @@ public class LambdaEx2 {
     public static void main(String[] args) {
         // void accept(T t);
         // 숫자를 전달인자로 받아 출력하기
-        Consumer<Integer> consumer = (i) -> System.out.println(i);
+        // Consumer<Integer> consumer = (i) -> System.out.println(i); 또는
+        Consumer<Integer> consumer = System.out::println;
         consumer.accept(50);
 
         // 문자를 전달인자로 받아 출력
         Consumer<String> consumer2 = (str) -> System.out.println(str);
+
         consumer2.accept("안녕하세요");
 
         BiConsumer<String, String> biConsumer = (t, u) -> System.out.println(t + u);
